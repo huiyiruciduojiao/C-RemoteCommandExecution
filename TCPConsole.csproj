@@ -64,9 +64,12 @@
     <GenerateManifests>true</GenerateManifests>
   </PropertyGroup>
   <PropertyGroup>
-    <SignManifests>true</SignManifests>
+    <SignManifests>false</SignManifests>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -82,41 +85,51 @@
   <ItemGroup>
     <Compile Include="CommandExecutionConfiguration.cs" />
     <Compile Include="ConfigurationTools.cs" />
+    <Compile Include="DiskInfoData.cs" />
+    <Compile Include="FileInfoData.cs" />
+    <Compile Include="FileNodeInfoData.cs" />
     <Compile Include="GetRemoteScreen.cs" />
-    <Compile Include="RemoteScreenForm.cs">
+    <Compile Include="RemoteFileTools.cs" />
+    <Compile Include="Form\RemoteScreenForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="RemoteScreenForm.Designer.cs">
+    <Compile Include="Form\RemoteScreenForm.Designer.cs">
       <DependentUpon>RemoteScreenForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Setting.cs" />
-    <Compile Include="MainInterface.cs">
+    <Compile Include="Form\MainInterface.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="MainInterface.Designer.cs">
+    <Compile Include="Form\MainInterface.Designer.cs">
       <DependentUpon>MainInterface.cs</DependentUpon>
     </Compile>
-    <Compile Include="Preferences.cs">
+    <Compile Include="Form\Preferences.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Preferences.Designer.cs">
+    <Compile Include="Form\Preferences.Designer.cs">
       <DependentUpon>Preferences.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="CommandExecutor.cs" />
     <Compile Include="RichTextBoxStyle.cs" />
-    <Compile Include="Tools.cs" />
-    <Compile Include="VersionInformationForm.cs">
+    <Compile Include="Form\ShowRemoteFile.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="VersionInformationForm.Designer.cs">
+    <Compile Include="Form\ShowRemoteFile.Designer.cs">
+      <DependentUpon>ShowRemoteFile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\Tools.cs" />
+    <Compile Include="Form\VersionInformationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\VersionInformationForm.Designer.cs">
       <DependentUpon>VersionInformationForm.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="MainInterface.resx">
+    <EmbeddedResource Include="Form\MainInterface.resx">
       <DependentUpon>MainInterface.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Preferences.resx">
+    <EmbeddedResource Include="Form\Preferences.resx">
       <DependentUpon>Preferences.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -129,10 +142,13 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <EmbeddedResource Include="RemoteScreenForm.resx">
+    <EmbeddedResource Include="Form\RemoteScreenForm.resx">
       <DependentUpon>RemoteScreenForm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="VersionInformationForm.resx">
+    <EmbeddedResource Include="Form\ShowRemoteFile.resx">
+      <DependentUpon>ShowRemoteFile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\VersionInformationForm.resx">
       <DependentUpon>VersionInformationForm.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="ILMerge.props" />

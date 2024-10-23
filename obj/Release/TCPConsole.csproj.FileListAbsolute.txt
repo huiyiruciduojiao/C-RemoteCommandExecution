@@ -1,0 +1,14 @@
+H:\S1\C#\TCPConsole\bin\Release\TCPConsole.exe.config
+H:\S1\C#\TCPConsole\obj\Release\TCPConsole.csproj.AssemblyReference.cache
+H:\S1\C#\TCPConsole\obj\Release\TCPConsole.csproj.SuggestedBindingRedirects.cache
+H:\S1\C#\TCPConsole\obj\Release\TCPConsole.MainInterface.resources
+H:\S1\C#\TCPConsole\obj\Release\TCPConsole.Preferences.resources
+H:\S1\C#\TCPConsole\obj\Release\TCPConsole.Properties.Resources.resources
+H:\S1\C#\TCPConsole\obj\Release\TCPConsole.RemoteScreenForm.resources
+H:\S1\C#\TCPConsole\obj\Release\TCPConsole.csproj.GenerateResource.cache
+H:\S1\C#\TCPConsole\obj\Release\TCPConsole.csproj.CoreCompileInputs.cache
+H:\S1\C#\TCPConsole\obj\Release\TCPConsole.exe.manifest
+H:\S1\C#\TCPConsole\obj\Release\TCPConsole.application
+H:\S1\C#\TCPConsole\obj\Release\TCPConsole.exe
+H:\S1\C#\TCPConsole\obj\Release\TCPConsole.pdb
+H:\S1\C#\TCPConsole\obj\Release\TCPConsole.VersionInformationForm.resources

@@ -1,0 +1,14 @@
+H:\S1\C#\TCPConsole\obj\Debug\TCPConsole.pdb
+H:\S1\C#\TCPConsole\obj\Debug\TCPConsole.csproj.AssemblyReference.cache
+H:\S1\C#\TCPConsole\obj\Debug\TCPConsole.MainInterface.resources
+H:\S1\C#\TCPConsole\obj\Debug\TCPConsole.Preferences.resources
+H:\S1\C#\TCPConsole\obj\Debug\TCPConsole.Properties.Resources.resources
+H:\S1\C#\TCPConsole\obj\Debug\TCPConsole.RemoteScreenForm.resources
+H:\S1\C#\TCPConsole\obj\Debug\TCPConsole.ShowRemoteFile.resources
+H:\S1\C#\TCPConsole\obj\Debug\TCPConsole.VersionInformationForm.resources
+H:\S1\C#\TCPConsole\obj\Debug\TCPConsole.csproj.GenerateResource.cache
+H:\S1\C#\TCPConsole\obj\Debug\TCPConsole.csproj.CoreCompileInputs.cache
+H:\S1\C#\TCPConsole\obj\Debug\TCPConsole.exe
+H:\S1\C#\TCPConsole\bin\Debug\TCPConsole.exe.config
+H:\S1\C#\TCPConsole\obj\Debug\TCPConsole.exe.manifest
+H:\S1\C#\TCPConsole\obj\Debug\TCPConsole.application

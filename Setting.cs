@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Newtonsoft.Json.Linq;
+using System;
+using System.Drawing;
 using System.Net;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -18,6 +20,9 @@ namespace TCPConsole {
         private String defalutFileRemoteSaveAddress = "C:\\Users\\";
         private String defalutRemoteScreenAddress = "127.0.0.1";
         private String defalutRemoteScreenPort = "7878";
+        private String defalutAgentHost = "lichuanjiu.top";
+        private String defalutAgentPort = "8887";
+
         Tools tools = new Tools();
         public string DefalutCommandAddress {
             get => defalutCommandAddress;
@@ -80,6 +85,14 @@ namespace TCPConsole {
         public string DefalutRemoteScreenPort {
             get => defalutRemoteScreenPort;
             set => defalutRemoteScreenPort = value;
+        }
+        public string DefalutAgentHost {
+            get => defalutAgentHost;
+            set => defalutAgentHost = value;
+        }
+        public string DefalutAgentPort {
+            get => defalutAgentPort;
+            set => defalutAgentPort = value;
         }
     }
 

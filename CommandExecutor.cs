@@ -14,7 +14,7 @@ namespace TCPConsole {
     /// <summary>
     /// 这是一个命令执行器类，该类用来执行命令配置对象中的数据
     /// </summary>
-    internal class CommandExecutor {
+    public class CommandExecutor {
         //创建连接的Socket
         Socket socketSend;
         //创建接收客户端发送消息的线程
@@ -119,10 +119,12 @@ namespace TCPConsole {
             }
         }
         private void Send(String command) {
+            Console.WriteLine("执行命令"+command);
             try {
                 byte[] buffer = new byte[2048];
                 buffer = Encoding.UTF8.GetBytes(command);
                 int receive = socketSend.Send(buffer);
+                Console.WriteLine(receive);
             } catch (Exception ex) {
                 IPEndPoint a = (IPEndPoint)socketSend.RemoteEndPoint;
                 ipList.Remove(a.Address.ToString());
@@ -141,7 +143,6 @@ namespace TCPConsole {
             //是否退出进度条更新线程
             bool isExitUI = false;
             try {
-
                 string strPath = commandExecutionConfiguration.FilePath;
                 MainInterface.MainInterfaceUi.richResultsOfEnforcementAppendText(new RichTextBoxStyle("尝试向:" + commandExecutionConfiguration.FileAddress + "发送文件:" + strPath, Color.Black, true));
                 fileSocketSend = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);

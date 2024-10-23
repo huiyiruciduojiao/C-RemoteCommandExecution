@@ -1,0 +1,390 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\S1\\C#\\TCPConsole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CD20AB-33B3-4099-9CA0-DD548192B626}|TCPConsole.csproj|h:\\s1\\c#\\tcpconsole\\form\\maininterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CD20AB-33B3-4099-9CA0-DD548192B626}|TCPConsole.csproj|solutionrelative:form\\maininterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CD20AB-33B3-4099-9CA0-DD548192B626}|TCPConsole.csproj|H:\\S1\\C#\\TCPConsole\\configurationtools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CD20AB-33B3-4099-9CA0-DD548192B626}|TCPConsole.csproj|solutionrelative:configurationtools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CD20AB-33B3-4099-9CA0-DD548192B626}|TCPConsole.csproj|H:\\S1\\C#\\TCPConsole\\form\\maininterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E1CD20AB-33B3-4099-9CA0-DD548192B626}|TCPConsole.csproj|solutionrelative:form\\maininterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CD20AB-33B3-4099-9CA0-DD548192B626}|TCPConsole.csproj|H:\\S1\\C#\\TCPConsole\\tools\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CD20AB-33B3-4099-9CA0-DD548192B626}|TCPConsole.csproj|solutionrelative:tools\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CD20AB-33B3-4099-9CA0-DD548192B626}|TCPConsole.csproj|H:\\S1\\C#\\TCPConsole\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CD20AB-33B3-4099-9CA0-DD548192B626}|TCPConsole.csproj|solutionrelative:setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CD20AB-33B3-4099-9CA0-DD548192B626}|TCPConsole.csproj|H:\\S1\\C#\\TCPConsole\\form\\preferences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CD20AB-33B3-4099-9CA0-DD548192B626}|TCPConsole.csproj|solutionrelative:form\\preferences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CD20AB-33B3-4099-9CA0-DD548192B626}|TCPConsole.csproj|H:\\S1\\C#\\TCPConsole\\form\\preferences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E1CD20AB-33B3-4099-9CA0-DD548192B626}|TCPConsole.csproj|solutionrelative:form\\preferences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CD20AB-33B3-4099-9CA0-DD548192B626}|TCPConsole.csproj|H:\\S1\\C#\\TCPConsole\\form\\remotescreenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E1CD20AB-33B3-4099-9CA0-DD548192B626}|TCPConsole.csproj|solutionrelative:form\\remotescreenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CD20AB-33B3-4099-9CA0-DD548192B626}|TCPConsole.csproj|H:\\S1\\C#\\TCPConsole\\form\\showremotefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E1CD20AB-33B3-4099-9CA0-DD548192B626}|TCPConsole.csproj|solutionrelative:form\\showremotefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CD20AB-33B3-4099-9CA0-DD548192B626}|TCPConsole.csproj|H:\\S1\\C#\\TCPConsole\\form\\versioninformationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E1CD20AB-33B3-4099-9CA0-DD548192B626}|TCPConsole.csproj|solutionrelative:form\\versioninformationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CD20AB-33B3-4099-9CA0-DD548192B626}|TCPConsole.csproj|H:\\S1\\C#\\TCPConsole\\form\\remotescreenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CD20AB-33B3-4099-9CA0-DD548192B626}|TCPConsole.csproj|solutionrelative:form\\remotescreenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CD20AB-33B3-4099-9CA0-DD548192B626}|TCPConsole.csproj|H:\\S1\\C#\\TCPConsole\\form\\showremotefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CD20AB-33B3-4099-9CA0-DD548192B626}|TCPConsole.csproj|solutionrelative:form\\showremotefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CD20AB-33B3-4099-9CA0-DD548192B626}|TCPConsole.csproj|H:\\S1\\C#\\TCPConsole\\commandexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CD20AB-33B3-4099-9CA0-DD548192B626}|TCPConsole.csproj|solutionrelative:commandexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CD20AB-33B3-4099-9CA0-DD548192B626}|TCPConsole.csproj|H:\\S1\\C#\\TCPConsole\\fileinfodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CD20AB-33B3-4099-9CA0-DD548192B626}|TCPConsole.csproj|solutionrelative:fileinfodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CD20AB-33B3-4099-9CA0-DD548192B626}|TCPConsole.csproj|H:\\S1\\C#\\TCPConsole\\form\\preferences.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CD20AB-33B3-4099-9CA0-DD548192B626}|TCPConsole.csproj|solutionrelative:form\\preferences.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CD20AB-33B3-4099-9CA0-DD548192B626}|TCPConsole.csproj|H:\\S1\\C#\\TCPConsole\\form\\maininterface.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CD20AB-33B3-4099-9CA0-DD548192B626}|TCPConsole.csproj|solutionrelative:form\\maininterface.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CD20AB-33B3-4099-9CA0-DD548192B626}|TCPConsole.csproj|H:\\S1\\C#\\TCPConsole\\form\\showremotefile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CD20AB-33B3-4099-9CA0-DD548192B626}|TCPConsole.csproj|solutionrelative:form\\showremotefile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CD20AB-33B3-4099-9CA0-DD548192B626}|TCPConsole.csproj|H:\\S1\\C#\\TCPConsole\\diskinfodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CD20AB-33B3-4099-9CA0-DD548192B626}|TCPConsole.csproj|solutionrelative:diskinfodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|TCPConsole||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1427,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Setting.cs",
+              "DocumentMoniker": "H:\\S1\\C#\\TCPConsole\\Setting.cs",
+              "RelativeDocumentMoniker": "Setting.cs",
+              "ToolTip": "H:\\S1\\C#\\TCPConsole\\Setting.cs",
+              "RelativeToolTip": "Setting.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAwBYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T00:27:15.507Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1a46fd64-28d5-434c-8eb3-17a02d419b53}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:626250718:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConfigurationTools.cs",
+              "DocumentMoniker": "H:\\S1\\C#\\TCPConsole\\ConfigurationTools.cs",
+              "RelativeDocumentMoniker": "ConfigurationTools.cs",
+              "ToolTip": "H:\\S1\\C#\\TCPConsole\\ConfigurationTools.cs",
+              "RelativeToolTip": "ConfigurationTools.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T06:05:24.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainInterface.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "H:\\S1\\C#\\TCPConsole\\Form\\MainInterface.cs",
+              "RelativeDocumentMoniker": "Form\\MainInterface.cs",
+              "ToolTip": "H:\\S1\\C#\\TCPConsole\\Form\\MainInterface.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form\\MainInterface.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T04:06:50.659Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainInterface.cs",
+              "DocumentMoniker": "H:\\S1\\C#\\TCPConsole\\Form\\MainInterface.cs",
+              "RelativeDocumentMoniker": "Form\\MainInterface.cs",
+              "ToolTip": "H:\\S1\\C#\\TCPConsole\\Form\\MainInterface.cs",
+              "RelativeToolTip": "Form\\MainInterface.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAQwJgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T18:13:51.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Preferences.cs",
+              "DocumentMoniker": "H:\\S1\\C#\\TCPConsole\\Form\\Preferences.cs",
+              "RelativeDocumentMoniker": "Form\\Preferences.cs",
+              "ToolTip": "H:\\S1\\C#\\TCPConsole\\Form\\Preferences.cs",
+              "RelativeToolTip": "Form\\Preferences.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAA1wMwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T00:28:45.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShowRemoteFile.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "H:\\S1\\C#\\TCPConsole\\Form\\ShowRemoteFile.cs",
+              "RelativeDocumentMoniker": "Form\\ShowRemoteFile.cs",
+              "ToolTip": "H:\\S1\\C#\\TCPConsole\\Form\\ShowRemoteFile.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form\\ShowRemoteFile.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T18:13:17.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Preferences.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "H:\\S1\\C#\\TCPConsole\\Form\\Preferences.cs",
+              "RelativeDocumentMoniker": "Form\\Preferences.cs",
+              "ToolTip": "H:\\S1\\C#\\TCPConsole\\Form\\Preferences.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form\\Preferences.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T18:14:03.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RemoteScreenForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "H:\\S1\\C#\\TCPConsole\\Form\\RemoteScreenForm.cs",
+              "RelativeDocumentMoniker": "Form\\RemoteScreenForm.cs",
+              "ToolTip": "H:\\S1\\C#\\TCPConsole\\Form\\RemoteScreenForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form\\RemoteScreenForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T18:13:34.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tools.cs",
+              "DocumentMoniker": "H:\\S1\\C#\\TCPConsole\\Tools\\Tools.cs",
+              "RelativeDocumentMoniker": "Tools\\Tools.cs",
+              "ToolTip": "H:\\S1\\C#\\TCPConsole\\Tools\\Tools.cs",
+              "RelativeToolTip": "Tools\\Tools.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAgwFEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T18:14:09.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VersionInformationForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "H:\\S1\\C#\\TCPConsole\\Form\\VersionInformationForm.cs",
+              "RelativeDocumentMoniker": "Form\\VersionInformationForm.cs",
+              "ToolTip": "H:\\S1\\C#\\TCPConsole\\Form\\VersionInformationForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form\\VersionInformationForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T13:29:14.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RemoteScreenForm.cs",
+              "DocumentMoniker": "H:\\S1\\C#\\TCPConsole\\Form\\RemoteScreenForm.cs",
+              "RelativeDocumentMoniker": "Form\\RemoteScreenForm.cs",
+              "ToolTip": "H:\\S1\\C#\\TCPConsole\\Form\\RemoteScreenForm.cs",
+              "RelativeToolTip": "Form\\RemoteScreenForm.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T18:13:41.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CommandExecutor.cs",
+              "DocumentMoniker": "H:\\S1\\C#\\TCPConsole\\CommandExecutor.cs",
+              "RelativeDocumentMoniker": "CommandExecutor.cs",
+              "ToolTip": "H:\\S1\\C#\\TCPConsole\\CommandExecutor.cs",
+              "RelativeToolTip": "CommandExecutor.cs",
+              "ViewState": "AgIAAGwBAAAAAAAAAAAkwHkBAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T18:14:12.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FileInfoData.cs",
+              "DocumentMoniker": "H:\\S1\\C#\\TCPConsole\\FileInfoData.cs",
+              "RelativeDocumentMoniker": "FileInfoData.cs",
+              "ToolTip": "H:\\S1\\C#\\TCPConsole\\FileInfoData.cs",
+              "RelativeToolTip": "FileInfoData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T18:14:14.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShowRemoteFile.cs",
+              "DocumentMoniker": "H:\\S1\\C#\\TCPConsole\\Form\\ShowRemoteFile.cs",
+              "RelativeDocumentMoniker": "Form\\ShowRemoteFile.cs",
+              "ToolTip": "H:\\S1\\C#\\TCPConsole\\Form\\ShowRemoteFile.cs",
+              "RelativeToolTip": "Form\\ShowRemoteFile.cs",
+              "ViewState": "AgIAACgBAAAAAAAAAAAAACsBAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T18:03:48.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Preferences.Designer.cs",
+              "DocumentMoniker": "H:\\S1\\C#\\TCPConsole\\Form\\Preferences.Designer.cs",
+              "RelativeDocumentMoniker": "Form\\Preferences.Designer.cs",
+              "ToolTip": "H:\\S1\\C#\\TCPConsole\\Form\\Preferences.Designer.cs",
+              "RelativeToolTip": "Form\\Preferences.Designer.cs",
+              "ViewState": "AgIAAMcBAAAAAAAAAADgv9cBAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T00:29:50.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainInterface.Designer.cs",
+              "DocumentMoniker": "H:\\S1\\C#\\TCPConsole\\Form\\MainInterface.Designer.cs",
+              "RelativeDocumentMoniker": "Form\\MainInterface.Designer.cs",
+              "ToolTip": "H:\\S1\\C#\\TCPConsole\\Form\\MainInterface.Designer.cs",
+              "RelativeToolTip": "Form\\MainInterface.Designer.cs",
+              "ViewState": "AgIAAMYCAAAAAAAAAAAUwLgCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T04:43:42.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ShowRemoteFile.Designer.cs",
+              "DocumentMoniker": "H:\\S1\\C#\\TCPConsole\\Form\\ShowRemoteFile.Designer.cs",
+              "RelativeDocumentMoniker": "Form\\ShowRemoteFile.Designer.cs",
+              "ToolTip": "H:\\S1\\C#\\TCPConsole\\Form\\ShowRemoteFile.Designer.cs",
+              "RelativeToolTip": "Form\\ShowRemoteFile.Designer.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAIwE8AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:01:22.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DiskInfoData.cs",
+              "DocumentMoniker": "H:\\S1\\C#\\TCPConsole\\DiskInfoData.cs",
+              "RelativeDocumentMoniker": "DiskInfoData.cs",
+              "ToolTip": "H:\\S1\\C#\\TCPConsole\\DiskInfoData.cs",
+              "RelativeToolTip": "DiskInfoData.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T18:03:37.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TCPConsole",
+              "DocumentMoniker": "H:\\S1\\C#\\TCPConsole\\TCPConsole.csproj",
+              "RelativeDocumentMoniker": "TCPConsole.csproj",
+              "ToolTip": "H:\\S1\\C#\\TCPConsole\\TCPConsole.csproj",
+              "RelativeToolTip": "TCPConsole.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-21T18:05:25.407Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 38,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{dee22b65-9761-4a26-8fb2-759b971d6dfc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

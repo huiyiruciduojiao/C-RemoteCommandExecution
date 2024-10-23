@@ -1,7 +1,7 @@
 ﻿using System;
 
 namespace TCPConsole {
-    internal class CommandExecutionConfiguration {
+    public class CommandExecutionConfiguration {
         //地址
         private String address = null;
         //端口
